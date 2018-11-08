@@ -1,0 +1,44 @@
+{
+    "name": "如何学习D3",
+    "children": [
+        {
+            "name": "预备知识",
+            "children": [
+                {
+                    "name": "HTML & CSS"
+                },
+                {
+                    "name": "JavaScript"
+                },
+                {
+                    "name": "DOM"
+                },
+                {
+                    "name": "SVG"
+                }
+            ]
+        },
+        {
+            "name": "书籍",
+            "children": [
+                {
+                    "name": "精通D3.js",
+                    "children": [
+                        {
+                            "name": "数据绑定"
+                        },
+                        {
+                            "name": "图表"
+                        },
+                        {
+                            "name": "生成器"
+                        },
+                        {
+                            "name": "交互"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

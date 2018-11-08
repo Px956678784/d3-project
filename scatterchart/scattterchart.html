@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="scatterchart.css" />
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
+    <script src="scatterchart.js"></script>
+    <title>d3.test</title>
+</head>
+
+<body>
+    <svg width="400" height="400">
+        <g id="gchart" transform="translate(0,0)"></g>
+        <g id="xAxis" class="axis" transform="translate(20,380)"></g>
+        <g id="yAxis" class="axis" transform="translate(20,80)"></g>
+    </svg>
+    <div>
+        <button type="button" onclick="update()">更新</button>
+        <button type="button" onclick="add()">增加</button>
+        <button type="button" onclick="sub()">减少</button>
+    </div>
+</body>
+
+</html>
