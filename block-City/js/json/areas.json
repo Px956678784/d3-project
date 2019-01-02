@@ -1,0 +1,50 @@
+[
+    {
+        "name": "武侯区",
+        "color": "#bcfff8"
+    },
+    {
+        "name": "锦江区",
+        "color": "#DEF9AE"
+    },
+    {
+        "name": "金牛区",
+        "color": "#5498F7"
+    },
+    {
+        "name": "青羊区",
+        "color": "#83C2DF"
+    },
+    {
+        "name": "成华区",
+        "color": "#9dc2f6"
+    },
+    {
+        "name": "高新区",
+        "color": "#C094FB"
+    },
+    {
+        "name": "双流区",
+        "color": "#FFB9D5"
+    },
+    {
+        "name": "温江区",
+        "color": "#f26a7a"
+    },
+    {
+        "name": "郫都区",
+        "color": "#F3E59A"
+    },
+    {
+        "name": "新都区",
+        "color": "#F7BEB7"
+    },
+    {
+        "name": "龙泉驿区",
+        "color": "#F6D89D"
+    },
+    {
+        "name": "青白江区",
+        "color": "#F6C0E2"
+    }
+]

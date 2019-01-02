@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+    <head>
+        <title>Block-City</title>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
+    </head>
+<body>
+    <div class="banner">
+        基于出租车数据的城市功能探索
+        <span>Created by 火花™: 庞潇 闫建荣 王翔坤 牛颢 Leo</span>
+    </div>
+        <div id="timebox">6:00-7:00</div>
+        <div id="samplebox"></div>
+        <div id="hiddenbox"></div>
+        <div class="flexbox">
+        <div class="left">
+            <div class="subtitle">行政区</div>
+            <div id="mainBox"><div id="content"></div></div>
+            <div class="subtitle">POI</div>
+            <div id="poiBox">
+            </div>
+        </div>
+        <div class="center">
+            <div id="bdmap"></div>
+            <div id="bumpchart"></div>
+        </div>
+        <div class="right">
+
+            <div id="piechart">
+            </div>
+                    <div id="poisample"></div>
+            <div id="wordCloud">
+            </div>
+        </div>
+        </div>
+        
+  <!--主页格式-->
+        <link rel="stylesheet" href="css/blockCity.css">
+        <!--地图视图的引用-->
+        <link rel="stylesheet" href="css/mapchart.css">
+        <script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=obVXQQuG5HO5vCl4G8fn9QD1gksuWnsC"></script> 
+        <script src="js/tool/d3.v4.js" charset="utf-8"></script>
+        <script src="js/tool/topojson.v1.min.js"></script>
+        <script src="js/tool/queue.v1.min.js" type="text/javascript"></script>
+        <script src="js/mapchart.js"></script>
+        <script src="js/bdmap.js"></script>
+        <!--bumpchart的引用-->
+        <link rel="stylesheet" href="css/bumpchart.css">
+        <script src="js/bumpchart.js"></script>
+        <!--区域列表的引用-->
+        <link rel="stylesheet" href="css/Areas.css">
+        <script src="js/Areas.js"></script>
+        <!--POI列表的引用-->
+        <link rel="stylesheet" href="css/poiBox.css">
+        <script src="js/poiBox.js"></script>
+        <!--饼图的引用-->
+        <link rel="stylesheet" href="css/piechart.css">
+        <script src = "https://unpkg.com/d2b@0.5.1/build/d2b.js"></script>
+        <script src="js/piechart.js"></script>
+        <!--词云-->
+        <link rel="stylesheet" href="css/wordCloud.css">
+          <script src="js/tool/d3.layout.cloud.js"></script>
+        <script src="js/wordCloud.js"></script>
+   </body>
+</html>

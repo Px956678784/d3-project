@@ -1,0 +1,11 @@
+#mainBox{ height:370px; background-color:#111925;border:2px rgb(110, 173, 202) solid; position:relative; overflow:hidden;}
+#content{ position:absolute; left:0; top:0;}
+.scrollDiv{ width:10px; position:absolute; top:0; background:#666; border-radius:10px;}
+
+.areaName{
+    color:white;
+    margin-left:30px;
+    line-height: 36px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+}

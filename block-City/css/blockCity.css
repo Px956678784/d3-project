@@ -1,0 +1,97 @@
+html *{
+    padding: 0;
+    margin: 0;
+  }
+body{
+    height: 100%; 
+    margin: 0;
+}
+.layout article div{
+    min-height: 100px;
+  }
+
+.banner{
+    height: 4%;padding:10px;
+    background-color: #111925;
+    border:2px rgb(110, 173, 202) solid;
+    padding-left: 30px;
+    color:white;
+    line-height: 30px;
+}
+.banner img{
+    max-height: 90%;
+    padding-left: 1rem;
+    padding-top: 0.1rem;
+}
+.banner span{
+    color:white;
+    font-size:0.8rem;
+    line-height: 2rem;
+    float: right;
+}
+.flexbox{
+    display: flex;
+  }
+  .flexbox .left{
+    width: 200px;
+  }
+.flexbox .center{
+    flex:1;
+  }
+.flexbox .right{
+    width: 300px;
+    background:#111925;
+}
+
+.subtitle{
+    background-color: #111925;
+    height: 30px;
+    width: 100%;
+    text-align:center;
+    color:white;
+    line-height: 30px;
+    letter-spacing:15px;
+}
+
+#timebox{
+    position: absolute;
+    top:54px;
+    left:200px;
+    height: 30px;
+    width: 120px;
+
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    z-index:1000;
+}
+
+#samplebox{
+    position: absolute;
+    top:390px;
+    left:200px;
+    height: 60px;
+    width: 360px;
+    background-color: #111925;
+    z-index:1000;
+}
+#hiddenbox{
+    position: absolute;
+    top:434px;
+    left:200px;
+    height: 18px;
+    width: 450px;
+    background-color: #111925;
+    z-index:900;
+}
+
+#poisample{
+    width: 292px;
+    height: 50px;
+    background-color: #111925;
+    border-left:2px rgb(110, 173, 202) solid;
+    border-right:2px rgb(110, 173, 202) solid;
+}
+

@@ -1,0 +1,9 @@
+#piechart{
+    height: 350px;
+    width: 292px;
+    background-color:#111925;
+    border-left:2px rgb(110, 173, 202) solid;
+
+    border-right:2px rgb(110, 173, 202) solid;
+    overflow:hidden;
+}

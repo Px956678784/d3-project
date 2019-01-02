@@ -1,0 +1,28 @@
+#poiBox{
+    height:248px; 
+    width: 200px;
+    background-color:#111925;
+    border:2px rgb(110, 173, 202) solid;
+    overflow:hidden;
+
+    padding: 10px;
+    display: flex;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    align-content: flex-start; 
+}
+.poi{
+    height: 20px; 
+    width: 40px;
+    background-color:#111925;
+    border:2px rgb(110, 173, 202) solid;
+    border-radius: 5px; 
+    margin: 7px;
+    line-height: 20px;
+    color:white;
+    text-align:center;
+    font-size:10px;
+}
+.d2b-vertical{
+    width: 10px;
+}

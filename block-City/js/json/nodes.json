@@ -1,0 +1,1298 @@
+[
+    {
+        "name": "武侯区",
+        "hour": 6,
+        "color": "#bcfff8",
+        "value": 34394
+    },
+    {
+        "name": "青羊区",
+        "hour": 6,
+        "color": "#83C2DF",
+        "value": 23629
+    },
+    {
+        "name": "锦江区",
+        "hour": 6,
+        "color": "#DEF9AE",
+        "value": 27575
+    },
+    {
+        "name": "金牛区",
+        "hour": 6,
+        "color": "#5498F7",
+        "value": 38432
+    },
+    {
+        "name": "成华区",
+        "hour": 6,
+        "color": "#9dc2f6",
+        "value": 38482
+    },
+    {
+        "name": "高新区",
+        "hour": 6,
+        "color": "#C094FB",
+        "value": 23912
+    },
+    {
+        "name": "双流区",
+        "hour": 6,
+        "color": "#FFB9D5",
+        "value": 24123
+    },
+    {
+        "name": "温江区",
+        "hour": 6,
+        "color": "#f26a7a",
+        "value": 80
+    },
+    {
+        "name": "郫都区",
+        "hour": 6,
+        "color": "#F3E59A",
+        "value": 664
+    },
+    {
+        "name": "新都区",
+        "hour": 6,
+        "color": "#F7BEB7",
+        "value": 697
+    },
+    {
+        "name": "青白江区",
+        "hour": 6,
+        "color": "#F6C0E2",
+        "value": 3
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 6,
+        "color": "#F6D89D",
+        "value": 2371
+    },
+    {
+        "name": "武侯区",
+        "hour": 7,
+        "color": "#bcfff8",
+        "value": 61252
+    },
+    {
+        "name": "青羊区",
+        "hour": 7,
+        "color": "#83C2DF",
+        "value": 47999
+    },
+    {
+        "name": "锦江区",
+        "hour": 7,
+        "color": "#DEF9AE",
+        "value": 49753
+    },
+    {
+        "name": "金牛区",
+        "hour": 7,
+        "color": "#5498F7",
+        "value": 66409
+    },
+    {
+        "name": "成华区",
+        "hour": 7,
+        "color": "#9dc2f6",
+        "value": 63775
+    },
+    {
+        "name": "高新区",
+        "hour": 7,
+        "color": "#C094FB",
+        "value": 30021
+    },
+    {
+        "name": "双流区",
+        "hour": 7,
+        "color": "#FFB9D5",
+        "value": 15406
+    },
+    {
+        "name": "温江区",
+        "hour": 7,
+        "color": "#f26a7a",
+        "value": 238
+    },
+    {
+        "name": "郫都区",
+        "hour": 7,
+        "color": "#F3E59A",
+        "value": 790
+    },
+    {
+        "name": "新都区",
+        "hour": 7,
+        "color": "#F7BEB7",
+        "value": 1080
+    },
+    {
+        "name": "青白江区",
+        "hour": 7,
+        "color": "#F6C0E2",
+        "value": 21
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 7,
+        "color": "#F6D89D",
+        "value": 3896
+    },
+    {
+        "name": "武侯区",
+        "hour": 8,
+        "color": "#bcfff8",
+        "value": 101425
+    },
+    {
+        "name": "青羊区",
+        "hour": 8,
+        "color": "#83C2DF",
+        "value": 75046
+    },
+    {
+        "name": "锦江区",
+        "hour": 8,
+        "color": "#DEF9AE",
+        "value": 75526
+    },
+    {
+        "name": "金牛区",
+        "hour": 8,
+        "color": "#5498F7",
+        "value": 83542
+    },
+    {
+        "name": "成华区",
+        "hour": 8,
+        "color": "#9dc2f6",
+        "value": 88786
+    },
+    {
+        "name": "高新区",
+        "hour": 8,
+        "color": "#C094FB",
+        "value": 41646
+    },
+    {
+        "name": "双流区",
+        "hour": 8,
+        "color": "#FFB9D5",
+        "value": 10098
+    },
+    {
+        "name": "温江区",
+        "hour": 8,
+        "color": "#f26a7a",
+        "value": 338
+    },
+    {
+        "name": "郫都区",
+        "hour": 8,
+        "color": "#F3E59A",
+        "value": 553
+    },
+    {
+        "name": "新都区",
+        "hour": 8,
+        "color": "#F7BEB7",
+        "value": 999
+    },
+    {
+        "name": "青白江区",
+        "hour": 8,
+        "color": "#F6C0E2",
+        "value": 46
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 8,
+        "color": "#F6D89D",
+        "value": 4060
+    },
+    {
+        "name": "武侯区",
+        "hour": 9,
+        "color": "#bcfff8",
+        "value": 108467
+    },
+    {
+        "name": "青羊区",
+        "hour": 9,
+        "color": "#83C2DF",
+        "value": 79948
+    },
+    {
+        "name": "锦江区",
+        "hour": 9,
+        "color": "#DEF9AE",
+        "value": 88266
+    },
+    {
+        "name": "金牛区",
+        "hour": 9,
+        "color": "#5498F7",
+        "value": 87095
+    },
+    {
+        "name": "成华区",
+        "hour": 9,
+        "color": "#9dc2f6",
+        "value": 95227
+    },
+    {
+        "name": "高新区",
+        "hour": 9,
+        "color": "#C094FB",
+        "value": 44946
+    },
+    {
+        "name": "双流区",
+        "hour": 9,
+        "color": "#FFB9D5",
+        "value": 16766
+    },
+    {
+        "name": "温江区",
+        "hour": 9,
+        "color": "#f26a7a",
+        "value": 334
+    },
+    {
+        "name": "郫都区",
+        "hour": 9,
+        "color": "#F3E59A",
+        "value": 638
+    },
+    {
+        "name": "新都区",
+        "hour": 9,
+        "color": "#F7BEB7",
+        "value": 1036
+    },
+    {
+        "name": "青白江区",
+        "hour": 9,
+        "color": "#F6C0E2",
+        "value": 23
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 9,
+        "color": "#F6D89D",
+        "value": 3247
+    },
+    {
+        "name": "武侯区",
+        "hour": 10,
+        "color": "#bcfff8",
+        "value": 101618
+    },
+    {
+        "name": "青羊区",
+        "hour": 10,
+        "color": "#83C2DF",
+        "value": 78712
+    },
+    {
+        "name": "锦江区",
+        "hour": 10,
+        "color": "#DEF9AE",
+        "value": 85325
+    },
+    {
+        "name": "金牛区",
+        "hour": 10,
+        "color": "#5498F7",
+        "value": 84061
+    },
+    {
+        "name": "成华区",
+        "hour": 10,
+        "color": "#9dc2f6",
+        "value": 85644
+    },
+    {
+        "name": "高新区",
+        "hour": 10,
+        "color": "#C094FB",
+        "value": 46755
+    },
+    {
+        "name": "双流区",
+        "hour": 10,
+        "color": "#FFB9D5",
+        "value": 23240
+    },
+    {
+        "name": "温江区",
+        "hour": 10,
+        "color": "#f26a7a",
+        "value": 260
+    },
+    {
+        "name": "郫都区",
+        "hour": 10,
+        "color": "#F3E59A",
+        "value": 821
+    },
+    {
+        "name": "新都区",
+        "hour": 10,
+        "color": "#F7BEB7",
+        "value": 881
+    },
+    {
+        "name": "青白江区",
+        "hour": 10,
+        "color": "#F6C0E2",
+        "value": 30
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 10,
+        "color": "#F6D89D",
+        "value": 4480
+    },
+    {
+        "name": "武侯区",
+        "hour": 11,
+        "color": "#bcfff8",
+        "value": 88612
+    },
+    {
+        "name": "青羊区",
+        "hour": 11,
+        "color": "#83C2DF",
+        "value": 65190
+    },
+    {
+        "name": "锦江区",
+        "hour": 11,
+        "color": "#DEF9AE",
+        "value": 81157
+    },
+    {
+        "name": "金牛区",
+        "hour": 11,
+        "color": "#5498F7",
+        "value": 71885
+    },
+    {
+        "name": "成华区",
+        "hour": 11,
+        "color": "#9dc2f6",
+        "value": 72026
+    },
+    {
+        "name": "高新区",
+        "hour": 11,
+        "color": "#C094FB",
+        "value": 43730
+    },
+    {
+        "name": "双流区",
+        "hour": 11,
+        "color": "#FFB9D5",
+        "value": 18410
+    },
+    {
+        "name": "温江区",
+        "hour": 11,
+        "color": "#f26a7a",
+        "value": 483
+    },
+    {
+        "name": "郫都区",
+        "hour": 11,
+        "color": "#F3E59A",
+        "value": 437
+    },
+    {
+        "name": "新都区",
+        "hour": 11,
+        "color": "#F7BEB7",
+        "value": 671
+    },
+    {
+        "name": "青白江区",
+        "hour": 11,
+        "color": "#F6C0E2",
+        "value": 95
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 11,
+        "color": "#F6D89D",
+        "value": 3229
+    },
+    {
+        "name": "武侯区",
+        "hour": 12,
+        "color": "#bcfff8",
+        "value": 76205
+    },
+    {
+        "name": "青羊区",
+        "hour": 12,
+        "color": "#83C2DF",
+        "value": 51478
+    },
+    {
+        "name": "锦江区",
+        "hour": 12,
+        "color": "#DEF9AE",
+        "value": 70255
+    },
+    {
+        "name": "金牛区",
+        "hour": 12,
+        "color": "#5498F7",
+        "value": 60023
+    },
+    {
+        "name": "成华区",
+        "hour": 12,
+        "color": "#9dc2f6",
+        "value": 64679
+    },
+    {
+        "name": "高新区",
+        "hour": 12,
+        "color": "#C094FB",
+        "value": 35845
+    },
+    {
+        "name": "双流区",
+        "hour": 12,
+        "color": "#FFB9D5",
+        "value": 19942
+    },
+    {
+        "name": "温江区",
+        "hour": 12,
+        "color": "#f26a7a",
+        "value": 363
+    },
+    {
+        "name": "郫都区",
+        "hour": 12,
+        "color": "#F3E59A",
+        "value": 478
+    },
+    {
+        "name": "新都区",
+        "hour": 12,
+        "color": "#F7BEB7",
+        "value": 692
+    },
+    {
+        "name": "青白江区",
+        "hour": 12,
+        "color": "#F6C0E2",
+        "value": 2
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 12,
+        "color": "#F6D89D",
+        "value": 2759
+    },
+    {
+        "name": "武侯区",
+        "hour": 13,
+        "color": "#bcfff8",
+        "value": 71447
+    },
+    {
+        "name": "青羊区",
+        "hour": 13,
+        "color": "#83C2DF",
+        "value": 53260
+    },
+    {
+        "name": "锦江区",
+        "hour": 13,
+        "color": "#DEF9AE",
+        "value": 70332
+    },
+    {
+        "name": "金牛区",
+        "hour": 13,
+        "color": "#5498F7",
+        "value": 54564
+    },
+    {
+        "name": "成华区",
+        "hour": 13,
+        "color": "#9dc2f6",
+        "value": 63796
+    },
+    {
+        "name": "高新区",
+        "hour": 13,
+        "color": "#C094FB",
+        "value": 30726
+    },
+    {
+        "name": "双流区",
+        "hour": 13,
+        "color": "#FFB9D5",
+        "value": 18022
+    },
+    {
+        "name": "温江区",
+        "hour": 13,
+        "color": "#f26a7a",
+        "value": 401
+    },
+    {
+        "name": "郫都区",
+        "hour": 13,
+        "color": "#F3E59A",
+        "value": 704
+    },
+    {
+        "name": "新都区",
+        "hour": 13,
+        "color": "#F7BEB7",
+        "value": 570
+    },
+    {
+        "name": "青白江区",
+        "hour": 13,
+        "color": "#F6C0E2",
+        "value": 2
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 13,
+        "color": "#F6D89D",
+        "value": 2792
+    },
+    {
+        "name": "武侯区",
+        "hour": 14,
+        "color": "#bcfff8",
+        "value": 71997
+    },
+    {
+        "name": "青羊区",
+        "hour": 14,
+        "color": "#83C2DF",
+        "value": 57213
+    },
+    {
+        "name": "锦江区",
+        "hour": 14,
+        "color": "#DEF9AE",
+        "value": 68284
+    },
+    {
+        "name": "金牛区",
+        "hour": 14,
+        "color": "#5498F7",
+        "value": 54112
+    },
+    {
+        "name": "成华区",
+        "hour": 14,
+        "color": "#9dc2f6",
+        "value": 65689
+    },
+    {
+        "name": "高新区",
+        "hour": 14,
+        "color": "#C094FB",
+        "value": 35134
+    },
+    {
+        "name": "双流区",
+        "hour": 14,
+        "color": "#FFB9D5",
+        "value": 19691
+    },
+    {
+        "name": "温江区",
+        "hour": 14,
+        "color": "#f26a7a",
+        "value": 319
+    },
+    {
+        "name": "郫都区",
+        "hour": 14,
+        "color": "#F3E59A",
+        "value": 428
+    },
+    {
+        "name": "新都区",
+        "hour": 14,
+        "color": "#F7BEB7",
+        "value": 794
+    },
+    {
+        "name": "青白江区",
+        "hour": 14,
+        "color": "#F6C0E2",
+        "value": 5
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 14,
+        "color": "#F6D89D",
+        "value": 2988
+    },
+    {
+        "name": "武侯区",
+        "hour": 15,
+        "color": "#bcfff8",
+        "value": 94344
+    },
+    {
+        "name": "青羊区",
+        "hour": 15,
+        "color": "#83C2DF",
+        "value": 66063
+    },
+    {
+        "name": "锦江区",
+        "hour": 15,
+        "color": "#DEF9AE",
+        "value": 81263
+    },
+    {
+        "name": "金牛区",
+        "hour": 15,
+        "color": "#5498F7",
+        "value": 56398
+    },
+    {
+        "name": "成华区",
+        "hour": 15,
+        "color": "#9dc2f6",
+        "value": 77994
+    },
+    {
+        "name": "高新区",
+        "hour": 15,
+        "color": "#C094FB",
+        "value": 39674
+    },
+    {
+        "name": "双流区",
+        "hour": 15,
+        "color": "#FFB9D5",
+        "value": 17221
+    },
+    {
+        "name": "温江区",
+        "hour": 15,
+        "color": "#f26a7a",
+        "value": 281
+    },
+    {
+        "name": "郫都区",
+        "hour": 15,
+        "color": "#F3E59A",
+        "value": 340
+    },
+    {
+        "name": "新都区",
+        "hour": 15,
+        "color": "#F7BEB7",
+        "value": 798
+    },
+    {
+        "name": "青白江区",
+        "hour": 15,
+        "color": "#F6C0E2",
+        "value": 2
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 15,
+        "color": "#F6D89D",
+        "value": 2906
+    },
+    {
+        "name": "武侯区",
+        "hour": 16,
+        "color": "#bcfff8",
+        "value": 103783
+    },
+    {
+        "name": "青羊区",
+        "hour": 16,
+        "color": "#83C2DF",
+        "value": 64661
+    },
+    {
+        "name": "锦江区",
+        "hour": 16,
+        "color": "#DEF9AE",
+        "value": 85786
+    },
+    {
+        "name": "金牛区",
+        "hour": 16,
+        "color": "#5498F7",
+        "value": 66112
+    },
+    {
+        "name": "成华区",
+        "hour": 16,
+        "color": "#9dc2f6",
+        "value": 72610
+    },
+    {
+        "name": "高新区",
+        "hour": 16,
+        "color": "#C094FB",
+        "value": 43752
+    },
+    {
+        "name": "双流区",
+        "hour": 16,
+        "color": "#FFB9D5",
+        "value": 17850
+    },
+    {
+        "name": "温江区",
+        "hour": 16,
+        "color": "#f26a7a",
+        "value": 203
+    },
+    {
+        "name": "郫都区",
+        "hour": 16,
+        "color": "#F3E59A",
+        "value": 542
+    },
+    {
+        "name": "新都区",
+        "hour": 16,
+        "color": "#F7BEB7",
+        "value": 615
+    },
+    {
+        "name": "青白江区",
+        "hour": 16,
+        "color": "#F6C0E2",
+        "value": 105
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 16,
+        "color": "#F6D89D",
+        "value": 2505
+    },
+    {
+        "name": "武侯区",
+        "hour": 17,
+        "color": "#bcfff8",
+        "value": 90758
+    },
+    {
+        "name": "青羊区",
+        "hour": 17,
+        "color": "#83C2DF",
+        "value": 63996
+    },
+    {
+        "name": "锦江区",
+        "hour": 17,
+        "color": "#DEF9AE",
+        "value": 79387
+    },
+    {
+        "name": "金牛区",
+        "hour": 17,
+        "color": "#5498F7",
+        "value": 67081
+    },
+    {
+        "name": "成华区",
+        "hour": 17,
+        "color": "#9dc2f6",
+        "value": 67292
+    },
+    {
+        "name": "高新区",
+        "hour": 17,
+        "color": "#C094FB",
+        "value": 39966
+    },
+    {
+        "name": "双流区",
+        "hour": 17,
+        "color": "#FFB9D5",
+        "value": 16916
+    },
+    {
+        "name": "温江区",
+        "hour": 17,
+        "color": "#f26a7a",
+        "value": 241
+    },
+    {
+        "name": "郫都区",
+        "hour": 17,
+        "color": "#F3E59A",
+        "value": 400
+    },
+    {
+        "name": "新都区",
+        "hour": 17,
+        "color": "#F7BEB7",
+        "value": 587
+    },
+    {
+        "name": "青白江区",
+        "hour": 17,
+        "color": "#F6C0E2",
+        "value": 2
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 17,
+        "color": "#F6D89D",
+        "value": 2340
+    },
+    {
+        "name": "武侯区",
+        "hour": 18,
+        "color": "#bcfff8",
+        "value": 81942
+    },
+    {
+        "name": "青羊区",
+        "hour": 18,
+        "color": "#83C2DF",
+        "value": 56911
+    },
+    {
+        "name": "锦江区",
+        "hour": 18,
+        "color": "#DEF9AE",
+        "value": 66985
+    },
+    {
+        "name": "金牛区",
+        "hour": 18,
+        "color": "#5498F7",
+        "value": 52886
+    },
+    {
+        "name": "成华区",
+        "hour": 18,
+        "color": "#9dc2f6",
+        "value": 62904
+    },
+    {
+        "name": "高新区",
+        "hour": 18,
+        "color": "#C094FB",
+        "value": 32654
+    },
+    {
+        "name": "双流区",
+        "hour": 18,
+        "color": "#FFB9D5",
+        "value": 20385
+    },
+    {
+        "name": "温江区",
+        "hour": 18,
+        "color": "#f26a7a",
+        "value": 87
+    },
+    {
+        "name": "郫都区",
+        "hour": 18,
+        "color": "#F3E59A",
+        "value": 537
+    },
+    {
+        "name": "新都区",
+        "hour": 18,
+        "color": "#F7BEB7",
+        "value": 612
+    },
+    {
+        "name": "青白江区",
+        "hour": 18,
+        "color": "#F6C0E2",
+        "value": 50
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 18,
+        "color": "#F6D89D",
+        "value": 2480
+    },
+    {
+        "name": "武侯区",
+        "hour": 19,
+        "color": "#bcfff8",
+        "value": 102619
+    },
+    {
+        "name": "青羊区",
+        "hour": 19,
+        "color": "#83C2DF",
+        "value": 68716
+    },
+    {
+        "name": "锦江区",
+        "hour": 19,
+        "color": "#DEF9AE",
+        "value": 77363
+    },
+    {
+        "name": "金牛区",
+        "hour": 19,
+        "color": "#5498F7",
+        "value": 59429
+    },
+    {
+        "name": "成华区",
+        "hour": 19,
+        "color": "#9dc2f6",
+        "value": 69744
+    },
+    {
+        "name": "高新区",
+        "hour": 19,
+        "color": "#C094FB",
+        "value": 35025
+    },
+    {
+        "name": "双流区",
+        "hour": 19,
+        "color": "#FFB9D5",
+        "value": 17088
+    },
+    {
+        "name": "温江区",
+        "hour": 19,
+        "color": "#f26a7a",
+        "value": 235
+    },
+    {
+        "name": "郫都区",
+        "hour": 19,
+        "color": "#F3E59A",
+        "value": 500
+    },
+    {
+        "name": "新都区",
+        "hour": 19,
+        "color": "#F7BEB7",
+        "value": 1107
+    },
+    {
+        "name": "青白江区",
+        "hour": 19,
+        "color": "#F6C0E2",
+        "value": 10
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 19,
+        "color": "#F6D89D",
+        "value": 1972
+    },
+    {
+        "name": "武侯区",
+        "hour": 20,
+        "color": "#bcfff8",
+        "value": 98173
+    },
+    {
+        "name": "青羊区",
+        "hour": 20,
+        "color": "#83C2DF",
+        "value": 74651
+    },
+    {
+        "name": "锦江区",
+        "hour": 20,
+        "color": "#DEF9AE",
+        "value": 79055
+    },
+    {
+        "name": "金牛区",
+        "hour": 20,
+        "color": "#5498F7",
+        "value": 61614
+    },
+    {
+        "name": "成华区",
+        "hour": 20,
+        "color": "#9dc2f6",
+        "value": 63768
+    },
+    {
+        "name": "高新区",
+        "hour": 20,
+        "color": "#C094FB",
+        "value": 34137
+    },
+    {
+        "name": "双流区",
+        "hour": 20,
+        "color": "#FFB9D5",
+        "value": 17463
+    },
+    {
+        "name": "温江区",
+        "hour": 20,
+        "color": "#f26a7a",
+        "value": 459
+    },
+    {
+        "name": "郫都区",
+        "hour": 20,
+        "color": "#F3E59A",
+        "value": 659
+    },
+    {
+        "name": "新都区",
+        "hour": 20,
+        "color": "#F7BEB7",
+        "value": 977
+    },
+    {
+        "name": "青白江区",
+        "hour": 20,
+        "color": "#F6C0E2",
+        "value": 69
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 20,
+        "color": "#F6D89D",
+        "value": 2371
+    },
+    {
+        "name": "武侯区",
+        "hour": 21,
+        "color": "#bcfff8",
+        "value": 108566
+    },
+    {
+        "name": "青羊区",
+        "hour": 21,
+        "color": "#83C2DF",
+        "value": 75296
+    },
+    {
+        "name": "锦江区",
+        "hour": 21,
+        "color": "#DEF9AE",
+        "value": 81349
+    },
+    {
+        "name": "金牛区",
+        "hour": 21,
+        "color": "#5498F7",
+        "value": 61323
+    },
+    {
+        "name": "成华区",
+        "hour": 21,
+        "color": "#9dc2f6",
+        "value": 70031
+    },
+    {
+        "name": "高新区",
+        "hour": 21,
+        "color": "#C094FB",
+        "value": 39605
+    },
+    {
+        "name": "双流区",
+        "hour": 21,
+        "color": "#FFB9D5",
+        "value": 18639
+    },
+    {
+        "name": "温江区",
+        "hour": 21,
+        "color": "#f26a7a",
+        "value": 483
+    },
+    {
+        "name": "郫都区",
+        "hour": 21,
+        "color": "#F3E59A",
+        "value": 717
+    },
+    {
+        "name": "新都区",
+        "hour": 21,
+        "color": "#F7BEB7",
+        "value": 1119
+    },
+    {
+        "name": "青白江区",
+        "hour": 21,
+        "color": "#F6C0E2",
+        "value": 3
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 21,
+        "color": "#F6D89D",
+        "value": 2635
+    },
+    {
+        "name": "武侯区",
+        "hour": 22,
+        "color": "#bcfff8",
+        "value": 123389
+    },
+    {
+        "name": "青羊区",
+        "hour": 22,
+        "color": "#83C2DF",
+        "value": 80550
+    },
+    {
+        "name": "锦江区",
+        "hour": 22,
+        "color": "#DEF9AE",
+        "value": 88550
+    },
+    {
+        "name": "金牛区",
+        "hour": 22,
+        "color": "#5498F7",
+        "value": 78001
+    },
+    {
+        "name": "成华区",
+        "hour": 22,
+        "color": "#9dc2f6",
+        "value": 80561
+    },
+    {
+        "name": "高新区",
+        "hour": 22,
+        "color": "#C094FB",
+        "value": 47522
+    },
+    {
+        "name": "双流区",
+        "hour": 22,
+        "color": "#FFB9D5",
+        "value": 16576
+    },
+    {
+        "name": "温江区",
+        "hour": 22,
+        "color": "#f26a7a",
+        "value": 370
+    },
+    {
+        "name": "郫都区",
+        "hour": 22,
+        "color": "#F3E59A",
+        "value": 1105
+    },
+    {
+        "name": "新都区",
+        "hour": 22,
+        "color": "#F7BEB7",
+        "value": 799
+    },
+    {
+        "name": "青白江区",
+        "hour": 22,
+        "color": "#F6C0E2",
+        "value": 40
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 22,
+        "color": "#F6D89D",
+        "value": 3305
+    },
+    {
+        "name": "武侯区",
+        "hour": 23,
+        "color": "#bcfff8",
+        "value": 121643
+    },
+    {
+        "name": "青羊区",
+        "hour": 23,
+        "color": "#83C2DF",
+        "value": 88632
+    },
+    {
+        "name": "锦江区",
+        "hour": 23,
+        "color": "#DEF9AE",
+        "value": 92079
+    },
+    {
+        "name": "金牛区",
+        "hour": 23,
+        "color": "#5498F7",
+        "value": 98819
+    },
+    {
+        "name": "成华区",
+        "hour": 23,
+        "color": "#9dc2f6",
+        "value": 82303
+    },
+    {
+        "name": "高新区",
+        "hour": 23,
+        "color": "#C094FB",
+        "value": 53034
+    },
+    {
+        "name": "双流区",
+        "hour": 23,
+        "color": "#FFB9D5",
+        "value": 20260
+    },
+    {
+        "name": "温江区",
+        "hour": 23,
+        "color": "#f26a7a",
+        "value": 593
+    },
+    {
+        "name": "郫都区",
+        "hour": 23,
+        "color": "#F3E59A",
+        "value": 1466
+    },
+    {
+        "name": "新都区",
+        "hour": 23,
+        "color": "#F7BEB7",
+        "value": 1211
+    },
+    {
+        "name": "青白江区",
+        "hour": 23,
+        "color": "#F6C0E2",
+        "value": 3
+    },
+    {
+        "name": "龙泉驿区",
+        "hour": 23,
+        "color": "#F6D89D",
+        "value": 2844
+    }
+]

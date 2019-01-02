@@ -1,0 +1,32 @@
+#bumpchart{
+    background-color: #111925;
+    border:2px rgb(110, 173, 202) solid;
+}
+  .axis text {
+      fill:white;
+    font: 10px sans-serif;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: white;
+    shape-rendering: crispEdges;
+  }
+
+  .x.axis path {
+    display: none;
+  }
+
+  .tooltip {
+    position: absolute;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: #222;
+    color: #fff;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+    opacity: 0.9;
+    visibility: hidden;
+  }
